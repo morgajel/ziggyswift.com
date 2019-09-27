@@ -1,3 +1,7 @@
+baseUrl = "http://ziggyswift.com"
+languageCode = "en-us"
+title = "Ziggy Swift"
+theme = "hyde-hyde"
 
 
 [Menus]
@@ -8,15 +12,11 @@
   ]
 
 [params]
-url = "http://ziggyswift.com"
-title = "Ziggy Swift"
-name = "Ziggy Swift"
-languageCode = "en-us"
-theme = "hyde-hyde"
-  layoutReverse = true
+	author = "Ziggy Swift"
+  	layoutReverse = true
 	description = "Lets go Clubbin'."
-
+	authorimage = "/2011/08/ziggy-lulz-300x300.png"
 [params.social]
 	twitter = "ziggyswift"
-	gravatar = "ziggy@ziggyswift.com"
+#	gravatar = "ziggy@ziggyswift.com"
 
