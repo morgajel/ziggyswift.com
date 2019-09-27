@@ -1,4 +1,4 @@
-baseUrl = "http://ziggyswift.com"
+baseUrl = "http://ziggyswift.com/"
 languageCode = "en-us"
 title = "Ziggy Swift"
 theme = "hyde-hyde"
