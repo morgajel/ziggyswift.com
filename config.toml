@@ -1,0 +1,22 @@
+
+
+[Menus]
+  main = [
+      {Name = "Posts", URL = "/post", Weight=100},
+      {Name = "Story Time!", URL = "/story-time", Weight=200},
+      {Name = "About Ziggy", URL = "/about", Weight=300}
+  ]
+
+[params]
+url = "http://ziggyswift.com"
+title = "Ziggy Swift"
+name = "Ziggy Swift"
+languageCode = "en-us"
+theme = "hyde-hyde"
+  layoutReverse = true
+	description = "Lets go Clubbin'."
+
+[params.social]
+	twitter = "ziggyswift"
+	gravatar = "ziggy@ziggyswift.com"
+
